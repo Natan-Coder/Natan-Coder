@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Natan-Coder otherwise known as Nathan. Honestly, this is my first real attempt at leaving a papertrail of my coding journey. Kinda daunting ngl, but that's part of the fun!
+- 👋 Hi, I’m @Natan-Coder otherwise known as Nathan. Honestly, this is my first real attempt at leaving a papertrail of my coding. Kinda daunting ngl, but that's part of the fun!
 - 👀 I’m interested in ... developing into someone who has knowledge/experience to pass onto others.
 - 🌱 I’m currently learning ... where I belong on this rock called Earth. Lol but seriously I'm learning Python and SQL. Allow me to show you the fruits of my labor. (In due time if you come across this and there's nothing)
 - 💞️ I’m looking to collaborate ... on anything and everything Python related. (Practice makes perfect, yeah?)
